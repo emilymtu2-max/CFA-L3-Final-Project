@@ -51,6 +51,7 @@ body {
 
 .card-img {
     height: 160px; 
+    width: 100%;
     margin: 1rem -1rem; 
     background: #e4e4e4;
 }
@@ -68,4 +69,25 @@ body {
     border-radius: 999px; 
     padding: 0.5rem 1rem; 
     font-family: "Montagu Slab"; 
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 5rem;
+    background: #F4F1EA;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+    font-weight: normal;
+    color: #4A7C59;
+}
+
+header a {
+    color: #E8B4A0;
+    text-decoration: none;
+    margin-left: 2rem;
 }

@@ -3,7 +3,9 @@ html {
 }
 
 body {
-    background-color: white;
+    margin: 0; 
+    font-family: "Montagu Slab"; 
+    background: #F4F1EA; 
 }
 
 #catchPhrase{

@@ -1,0 +1,56 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: white;
+}
+
+#catchPhrase{
+    color:#A8C5A0;
+    font-size:40px;
+    font-weight:10;
+    margin:300px;
+    font-family:Montagu Slab;
+}
+
+#mainButton1{
+    padding: 10px 20px;
+    color: #E8B4A0;
+    background:#F4F1EA;
+    border-color:#E8B4A0;
+    border-radius:10px;
+    border:1px;
+
+}
+
+#mainButton2{
+    padding: 10px 20px;
+    color:#F4F1EA;
+    background:#E8B4A0;
+    border:1px;
+    border-radius:10px;
+
+}
+
+#mainPage2{
+    background:#F4F1EA;
+    color:#A8C5A0;
+
+}
+
+#main1{
+    font-size:20px;
+    color:#E8B4A0;
+    
+}
+
+#learnMore{
+      padding: 10px 20px;
+    color: #E8B4A0;
+    background:#F4F1EA;
+    border-color:#E8B4A0;
+    border-radius:10px;
+    border:1px;
+
+}

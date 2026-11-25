@@ -28,6 +28,10 @@ body {
     font-family:Montagu Slab;
 }
 
+#searchTester{
+    font-size:20px;
+}
+
 #mainButton1{
     padding: 10px 20px;
     color: #E8B4A0;

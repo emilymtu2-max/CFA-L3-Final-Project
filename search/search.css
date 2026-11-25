@@ -1,0 +1,71 @@
+body {
+    margin: 0; 
+    font-family: "Montagu Slab"; 
+    background: #F4F1EA; 
+}
+
+.hero{
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+    padding: 4rem 5rem; 
+    background: white; 
+}
+
+.hero h1{
+    font-size: 3rem; 
+}
+
+.resources {
+    padding: 3rem 5rem 1rem; 
+}
+
+.search input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 1rem 1.5rem;
+    border: 1px solid #dddddd;
+    border-radius: 999px;
+    background: white;
+    font-family: "Montagu Slab"; 
+}
+
+.cards {
+    padding: 1rem 3rem;
+    display: flex; 
+    gap: 2rem; 
+}
+
+.card {
+    background:#A8C5A0;
+    border-radius: 8px;
+    padding: 1rem; 
+    width: 400px;
+}
+
+.header,
+.subhead {
+    color: #4A7C59;
+    margin: 0; 
+}
+
+.card-img {
+    height: 160px; 
+    margin: 1rem -1rem; 
+    background: #e4e4e4;
+}
+
+.actions {
+    display: flex; 
+    justify-content: flex-end; 
+    gap: 0.5rem;
+}
+
+.btnLink {
+    background: #E8B4A0; 
+    color: white; 
+    border: none; 
+    border-radius: 999px; 
+    padding: 0.5rem 1rem; 
+    font-family: "Montagu Slab"; 
+}

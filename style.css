@@ -9,11 +9,9 @@ body {
 }
 
 #topButtons{
-    position:fixed;
-    top:30px;
-    right:100px;
+    justify-content:flex-end;
     display:flex;
-    gap:20px
+    gap:10px
 }
 
 #header{

@@ -8,6 +8,20 @@ body {
     background: #F4F1EA; 
 }
 
+#topButtons{
+    position:fixed;
+    top:30px;
+    right:100px;
+    display:flex;
+    gap:20px
+}
+
+#header{
+    background:#F4F1EA;
+    color:#A8C5A0;
+    margin: 10px;
+}
+
 #catchPhrase{
     color:#A8C5A0;
     font-size:40px;
@@ -56,3 +70,10 @@ body {
     border:1px;
 
 }
+
+#mainPage3{
+    background:#A8C5A0;
+
+}
+
+
